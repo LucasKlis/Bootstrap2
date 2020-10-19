@@ -1,0 +1,15 @@
+.container {
+    width: 100%;
+    background-color: yellow;
+    height: 200px;
+}
+.data {
+    width: 30%;
+    height: 150px;
+}
+.content {
+    width: 70%;
+    height: 150px;
+    background-color: blue;
+
+}
